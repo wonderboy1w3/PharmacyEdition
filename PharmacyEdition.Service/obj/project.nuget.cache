@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GTbxZ83X+e5D12o8b5mURFX05xjH216OMhxz6lRC1gX1vrjkNThLhIHhQ/LKvtwJ+gPGcCjle/Bnj4QFu+9X6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jamshid\\Desktop\\PharmacyEdition\\PharmacyEdition.Service\\PharmacyEdition.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jamshid\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

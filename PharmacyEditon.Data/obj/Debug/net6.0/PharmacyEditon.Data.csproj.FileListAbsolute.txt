@@ -1,0 +1,15 @@
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEditon.Data\bin\Debug\net6.0\PharmacyEditon.Data.deps.json
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEditon.Data\bin\Debug\net6.0\PharmacyEditon.Data.dll
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEditon.Data\bin\Debug\net6.0\PharmacyEditon.Data.pdb
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEditon.Data\bin\Debug\net6.0\PharmacyEdition.Domain.dll
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEditon.Data\bin\Debug\net6.0\PharmacyEdition.Domain.pdb
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEditon.Data\obj\Debug\net6.0\PharmacyEditon.Data.csproj.AssemblyReference.cache
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEditon.Data\obj\Debug\net6.0\PharmacyEditon.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEditon.Data\obj\Debug\net6.0\PharmacyEditon.Data.AssemblyInfoInputs.cache
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEditon.Data\obj\Debug\net6.0\PharmacyEditon.Data.AssemblyInfo.cs
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEditon.Data\obj\Debug\net6.0\PharmacyEditon.Data.csproj.CoreCompileInputs.cache
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEditon.Data\obj\Debug\net6.0\PharmacyEditon.Data.csproj.CopyComplete
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEditon.Data\obj\Debug\net6.0\PharmacyEditon.Data.dll
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEditon.Data\obj\Debug\net6.0\refint\PharmacyEditon.Data.dll
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEditon.Data\obj\Debug\net6.0\PharmacyEditon.Data.pdb
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEditon.Data\obj\Debug\net6.0\ref\PharmacyEditon.Data.dll

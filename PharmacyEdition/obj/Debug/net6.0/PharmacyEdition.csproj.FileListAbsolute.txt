@@ -1,0 +1,40 @@
+C:\Users\Jamshid\Desktop\.NET N6\PharmacyEdition\PharmacyEdition\obj\Debug\net6.0\PharmacyEdition.csproj.AssemblyReference.cache
+C:\Users\Jamshid\Desktop\.NET N6\PharmacyEdition\PharmacyEdition\obj\Debug\net6.0\PharmacyEdition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamshid\Desktop\.NET N6\PharmacyEdition\PharmacyEdition\obj\Debug\net6.0\PharmacyEdition.AssemblyInfoInputs.cache
+C:\Users\Jamshid\Desktop\.NET N6\PharmacyEdition\PharmacyEdition\obj\Debug\net6.0\PharmacyEdition.AssemblyInfo.cs
+C:\Users\Jamshid\Desktop\.NET N6\PharmacyEdition\PharmacyEdition\obj\Debug\net6.0\PharmacyEdition.csproj.CoreCompileInputs.cache
+C:\Users\Jamshid\Desktop\.NET N6\PharmacyEdition\PharmacyEdition\bin\Debug\net6.0\PharmacyEdition.exe
+C:\Users\Jamshid\Desktop\.NET N6\PharmacyEdition\PharmacyEdition\bin\Debug\net6.0\PharmacyEdition.deps.json
+C:\Users\Jamshid\Desktop\.NET N6\PharmacyEdition\PharmacyEdition\bin\Debug\net6.0\PharmacyEdition.runtimeconfig.json
+C:\Users\Jamshid\Desktop\.NET N6\PharmacyEdition\PharmacyEdition\bin\Debug\net6.0\PharmacyEdition.dll
+C:\Users\Jamshid\Desktop\.NET N6\PharmacyEdition\PharmacyEdition\bin\Debug\net6.0\PharmacyEdition.pdb
+C:\Users\Jamshid\Desktop\.NET N6\PharmacyEdition\PharmacyEdition\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Jamshid\Desktop\.NET N6\PharmacyEdition\PharmacyEdition\obj\Debug\net6.0\PharmacyEdition.csproj.CopyComplete
+C:\Users\Jamshid\Desktop\.NET N6\PharmacyEdition\PharmacyEdition\obj\Debug\net6.0\PharmacyEdition.dll
+C:\Users\Jamshid\Desktop\.NET N6\PharmacyEdition\PharmacyEdition\obj\Debug\net6.0\refint\PharmacyEdition.dll
+C:\Users\Jamshid\Desktop\.NET N6\PharmacyEdition\PharmacyEdition\obj\Debug\net6.0\PharmacyEdition.pdb
+C:\Users\Jamshid\Desktop\.NET N6\PharmacyEdition\PharmacyEdition\obj\Debug\net6.0\PharmacyEdition.genruntimeconfig.cache
+C:\Users\Jamshid\Desktop\.NET N6\PharmacyEdition\PharmacyEdition\obj\Debug\net6.0\ref\PharmacyEdition.dll
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition\bin\Debug\net6.0\PharmacyEdition.exe
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition\bin\Debug\net6.0\PharmacyEdition.deps.json
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition\bin\Debug\net6.0\PharmacyEdition.runtimeconfig.json
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition\bin\Debug\net6.0\PharmacyEdition.dll
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition\bin\Debug\net6.0\PharmacyEdition.pdb
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition\bin\Debug\net6.0\PharmacyEdition.Domain.dll
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition\bin\Debug\net6.0\PharmacyEdition.Service.dll
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition\bin\Debug\net6.0\PharmacyEditon.Data.dll
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition\bin\Debug\net6.0\PharmacyEdition.Service.pdb
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition\bin\Debug\net6.0\PharmacyEdition.Domain.pdb
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition\bin\Debug\net6.0\PharmacyEditon.Data.pdb
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition\obj\Debug\net6.0\PharmacyEdition.csproj.AssemblyReference.cache
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition\obj\Debug\net6.0\PharmacyEdition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition\obj\Debug\net6.0\PharmacyEdition.AssemblyInfoInputs.cache
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition\obj\Debug\net6.0\PharmacyEdition.AssemblyInfo.cs
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition\obj\Debug\net6.0\PharmacyEdition.csproj.CoreCompileInputs.cache
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition\obj\Debug\net6.0\PharmacyEdition.csproj.CopyComplete
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition\obj\Debug\net6.0\PharmacyEdition.dll
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition\obj\Debug\net6.0\refint\PharmacyEdition.dll
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition\obj\Debug\net6.0\PharmacyEdition.pdb
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition\obj\Debug\net6.0\PharmacyEdition.genruntimeconfig.cache
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition\obj\Debug\net6.0\ref\PharmacyEdition.dll

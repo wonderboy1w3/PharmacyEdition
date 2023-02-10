@@ -1,0 +1,61 @@
+[
+  {
+    "Medicines": [
+      {
+        "Name": "Trimol",
+        "Count": 20,
+        "Description": "Bosh",
+        "Price": 1000.0,
+        "Id": 1,
+        "CreatedAt": "2023-02-09T12:01:45.5390863Z",
+        "UpdatedAt": "2023-02-09T12:02:12.3946323Z"
+      }
+    ],
+    "Status": 10,
+    "Payment": {
+      "Type": 10,
+      "IsPaid": true,
+      "OrderId": 1,
+      "Id": 1,
+      "CreatedAt": "2023-02-09T12:14:36.0926547Z",
+      "UpdatedAt": null
+    },
+    "Id": 1,
+    "CreatedAt": "2023-02-09T12:14:36.1512546Z",
+    "UpdatedAt": null
+  },
+  {
+    "Medicines": [
+      {
+        "Name": "Trimol",
+        "Count": 20,
+        "Description": "Bosh",
+        "Price": 1000.0,
+        "Id": 1,
+        "CreatedAt": "2023-02-09T12:01:45.5390863Z",
+        "UpdatedAt": "2023-02-09T12:02:12.3946323Z"
+      },
+      {
+        "Name": "Parestamol",
+        "Count": 10,
+        "Description": "Bosh",
+        "Price": 1000.0,
+        "Id": 2,
+        "CreatedAt": "2023-02-09T12:16:19.4270942Z",
+        "UpdatedAt": null
+      }
+    ],
+    "Status": 10,
+    "Payment": {
+      "Type": 30,
+      "IsPaid": true,
+      "OrderId": 2,
+      "Id": 1,
+      "CreatedAt": "2023-02-09T12:17:43.0920128Z",
+      "UpdatedAt": null
+    },
+    "Id": 1,
+    "CreatedAt": "2023-02-09T12:17:43.1461778Z",
+    "UpdatedAt": null
+  }
+]

@@ -1,0 +1,12 @@
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Domain\bin\Debug\net6.0\PharmacyEdition.Domain.deps.json
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Domain\bin\Debug\net6.0\PharmacyEdition.Domain.dll
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Domain\bin\Debug\net6.0\PharmacyEdition.Domain.pdb
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Domain\obj\Debug\net6.0\PharmacyEdition.Domain.csproj.AssemblyReference.cache
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Domain\obj\Debug\net6.0\PharmacyEdition.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Domain\obj\Debug\net6.0\PharmacyEdition.Domain.AssemblyInfoInputs.cache
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Domain\obj\Debug\net6.0\PharmacyEdition.Domain.AssemblyInfo.cs
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Domain\obj\Debug\net6.0\PharmacyEdition.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Domain\obj\Debug\net6.0\PharmacyEdition.Domain.dll
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Domain\obj\Debug\net6.0\refint\PharmacyEdition.Domain.dll
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Domain\obj\Debug\net6.0\PharmacyEdition.Domain.pdb
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Domain\obj\Debug\net6.0\ref\PharmacyEdition.Domain.dll

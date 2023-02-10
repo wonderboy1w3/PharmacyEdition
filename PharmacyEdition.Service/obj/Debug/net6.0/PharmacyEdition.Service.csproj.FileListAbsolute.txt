@@ -1,0 +1,17 @@
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Service\bin\Debug\net6.0\PharmacyEdition.Service.deps.json
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Service\bin\Debug\net6.0\PharmacyEdition.Service.dll
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Service\bin\Debug\net6.0\PharmacyEdition.Service.pdb
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Service\bin\Debug\net6.0\PharmacyEdition.Domain.dll
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Service\bin\Debug\net6.0\PharmacyEditon.Data.dll
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Service\bin\Debug\net6.0\PharmacyEdition.Domain.pdb
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Service\bin\Debug\net6.0\PharmacyEditon.Data.pdb
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Service\obj\Debug\net6.0\PharmacyEdition.Service.csproj.AssemblyReference.cache
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Service\obj\Debug\net6.0\PharmacyEdition.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Service\obj\Debug\net6.0\PharmacyEdition.Service.AssemblyInfoInputs.cache
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Service\obj\Debug\net6.0\PharmacyEdition.Service.AssemblyInfo.cs
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Service\obj\Debug\net6.0\PharmacyEdition.Service.csproj.CoreCompileInputs.cache
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Service\obj\Debug\net6.0\PharmacyEdition.Service.csproj.CopyComplete
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Service\obj\Debug\net6.0\PharmacyEdition.Service.dll
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Service\obj\Debug\net6.0\refint\PharmacyEdition.Service.dll
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Service\obj\Debug\net6.0\PharmacyEdition.Service.pdb
+C:\Users\Pilotech\Desktop\PharmacyEdition\PharmacyEdition.Service\obj\Debug\net6.0\ref\PharmacyEdition.Service.dll
