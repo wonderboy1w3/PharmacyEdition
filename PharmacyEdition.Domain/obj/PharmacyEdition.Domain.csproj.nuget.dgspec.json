@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jamshid\\Desktop\\PharmacyEdition\\PharmacyEdition.Domain\\PharmacyEdition.Domain.csproj": {}
+    "C:\\Users\\Pilotech\\Desktop\\Overload\\PharmacyEdition\\PharmacyEdition.Domain\\PharmacyEdition.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jamshid\\Desktop\\PharmacyEdition\\PharmacyEdition.Domain\\PharmacyEdition.Domain.csproj": {
+    "C:\\Users\\Pilotech\\Desktop\\Overload\\PharmacyEdition\\PharmacyEdition.Domain\\PharmacyEdition.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jamshid\\Desktop\\PharmacyEdition\\PharmacyEdition.Domain\\PharmacyEdition.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Pilotech\\Desktop\\Overload\\PharmacyEdition\\PharmacyEdition.Domain\\PharmacyEdition.Domain.csproj",
         "projectName": "PharmacyEdition.Domain",
-        "projectPath": "C:\\Users\\Jamshid\\Desktop\\PharmacyEdition\\PharmacyEdition.Domain\\PharmacyEdition.Domain.csproj",
-        "packagesPath": "C:\\Users\\Jamshid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jamshid\\Desktop\\PharmacyEdition\\PharmacyEdition.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Pilotech\\Desktop\\Overload\\PharmacyEdition\\PharmacyEdition.Domain\\PharmacyEdition.Domain.csproj",
+        "packagesPath": "C:\\Users\\Pilotech\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pilotech\\Desktop\\Overload\\PharmacyEdition\\PharmacyEdition.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jamshid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pilotech\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

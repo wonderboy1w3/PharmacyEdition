@@ -5,10 +5,14 @@
       "Newtonsoft.Json/13.0.2": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Newtonsoft.Json.dll": {}
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net6.0/Newtonsoft.Json.dll": {}
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
         }
       },
       "PharmacyEdition.Domain/1.0.0": {
@@ -67,19 +71,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jamshid\\.nuget\\packages\\": {}
+    "C:\\Users\\Pilotech\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jamshid\\Desktop\\PharmacyEdition\\PharmacyEditon.Data\\PharmacyEditon.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Pilotech\\Desktop\\Overload\\PharmacyEdition\\PharmacyEditon.Data\\PharmacyEditon.Data.csproj",
       "projectName": "PharmacyEditon.Data",
-      "projectPath": "C:\\Users\\Jamshid\\Desktop\\PharmacyEdition\\PharmacyEditon.Data\\PharmacyEditon.Data.csproj",
-      "packagesPath": "C:\\Users\\Jamshid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jamshid\\Desktop\\PharmacyEdition\\PharmacyEditon.Data\\obj\\",
+      "projectPath": "C:\\Users\\Pilotech\\Desktop\\Overload\\PharmacyEdition\\PharmacyEditon.Data\\PharmacyEditon.Data.csproj",
+      "packagesPath": "C:\\Users\\Pilotech\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Pilotech\\Desktop\\Overload\\PharmacyEdition\\PharmacyEditon.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jamshid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Pilotech\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -93,8 +97,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Jamshid\\Desktop\\PharmacyEdition\\PharmacyEdition.Domain\\PharmacyEdition.Domain.csproj": {
-              "projectPath": "C:\\Users\\Jamshid\\Desktop\\PharmacyEdition\\PharmacyEdition.Domain\\PharmacyEdition.Domain.csproj"
+            "C:\\Users\\Pilotech\\Desktop\\Overload\\PharmacyEdition\\PharmacyEdition.Domain\\PharmacyEdition.Domain.csproj": {
+              "projectPath": "C:\\Users\\Pilotech\\Desktop\\Overload\\PharmacyEdition\\PharmacyEdition.Domain\\PharmacyEdition.Domain.csproj"
             }
           }
         }
@@ -120,7 +124,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -129,7 +134,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

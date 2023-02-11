@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SsYBiF400fctNPUc80hJV1mummZZVSctplf6Gr5tioq4J7WgbmboTAao2Pmp26pB5mQc5S3PAA93NleeD4tHZg==",
+  "dgSpecHash": "YEIPaN49SNGj0tCYdoRVAzzWiYlBySe+u1MHBNa6Hph7NCOHA89vM07iUYDctGyv35Om6FJIUmAL5Zv/2oIx0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jamshid\\Desktop\\PharmacyEdition\\PharmacyEdition\\PharmacyEdition.csproj",
+  "projectFilePath": "C:\\Users\\Pilotech\\Desktop\\Overload\\PharmacyEdition\\PharmacyEdition\\PharmacyEdition.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Jamshid\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+    "C:\\Users\\Pilotech\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
   ],
   "logs": []
 }
