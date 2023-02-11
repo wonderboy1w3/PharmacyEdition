@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "SsYBiF400fctNPUc80hJV1mummZZVSctplf6Gr5tioq4J7WgbmboTAao2Pmp26pB5mQc5S3PAA93NleeD4tHZg==",
+  "dgSpecHash": "a+wth1eeyAEBl8jI4OR+OeLhzAdn48RgWBcp54tQ1iMWdQkeWFQLQ6DGy4/fBc98ZTrIqMvf6WG5PvsKukrwiA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jamshid\\Desktop\\PharmacyEdition\\PharmacyEdition\\PharmacyEdition.csproj",
+  "projectFilePath": "C:\\Users\\lenvo\\Source\\Repos\\PharmacyEdition\\PharmacyEdition\\PharmacyEdition.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Jamshid\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+    "C:\\Users\\lenvo\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
   ],
   "logs": []
 }
