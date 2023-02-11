@@ -15,6 +15,46 @@ public class OrderService : IOrderService
 
     public async Task<Response<Order>> CreateAsync(OrderCreationDto order)
     {
+        // Checking that there are enough medicines or they exist
+        foreach (var med in order.Medicines)
+        {
+            var ourMed = (await medicineService.GetByIdAsync(med.Id)).Value;
+
+            // Checking for existence of medicine
+            if (ourMed is null)
+                return new Response<Order>
+                {
+                    StatusCode = 409,
+                    Message = "Some of these medicines does not exist",
+                    Value = null
+                };
+
+            // Checking does the amount of medicine enought
+            if (ourMed.Count < med.Count)
+                return new Response<Order>
+                {
+                    StatusCode = 410,
+                    Message = "Some of these medicine does not enough",
+                    Value = null
+                };
+        }
+
+        // Decreasing count of all medicines
+        foreach (var med in order.Medicines)
+        {
+            var ourMed = (await medicineService.GetByIdAsync(med.Id)).Value;
+
+            var mappedMed = new MedicineCreationDto
+            {
+                // Decreasing the count
+                Count = ourMed.Count - med.Count,
+                Description = ourMed.Description,
+                Name = ourMed.Name,
+                Price = ourMed.Price
+            };
+            await medicineService.UpdateAsync(ourMed.Id, mappedMed);
+        }
+    
         var paymentResult = await paymentService.CreateAsync(order.Payment);
 
         if (paymentResult.Value.IsPaid)
